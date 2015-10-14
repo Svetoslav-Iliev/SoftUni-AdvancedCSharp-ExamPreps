@@ -1,0 +1,6 @@
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\ExamPrep\ConsoleApplication1\ProblemSix_TargetPractice\bin\Debug\ProblemSix_TargetPractice.exe.config
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\ExamPrep\ConsoleApplication1\ProblemSix_TargetPractice\obj\Debug\ProblemSix_TargetPractice.csprojResolveAssemblyReference.cache
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\ExamPrep\ConsoleApplication1\ProblemSix_TargetPractice\bin\Debug\ProblemSix_TargetPractice.exe
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\ExamPrep\ConsoleApplication1\ProblemSix_TargetPractice\bin\Debug\ProblemSix_TargetPractice.pdb
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\ExamPrep\ConsoleApplication1\ProblemSix_TargetPractice\obj\Debug\ProblemSix_TargetPractice.exe
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\ExamPrep\ConsoleApplication1\ProblemSix_TargetPractice\obj\Debug\ProblemSix_TargetPractice.pdb

@@ -1,0 +1,6 @@
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\ExamPrep\ConsoleApplication1\ProblemThree_LittleJohn\bin\Debug\ProblemThree_LittleJohn.exe.config
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\ExamPrep\ConsoleApplication1\ProblemThree_LittleJohn\bin\Debug\ProblemThree_LittleJohn.exe
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\ExamPrep\ConsoleApplication1\ProblemThree_LittleJohn\bin\Debug\ProblemThree_LittleJohn.pdb
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\ExamPrep\ConsoleApplication1\ProblemThree_LittleJohn\obj\Debug\ProblemThree_LittleJohn.csprojResolveAssemblyReference.cache
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\ExamPrep\ConsoleApplication1\ProblemThree_LittleJohn\obj\Debug\ProblemThree_LittleJohn.exe
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\ExamPrep\ConsoleApplication1\ProblemThree_LittleJohn\obj\Debug\ProblemThree_LittleJohn.pdb

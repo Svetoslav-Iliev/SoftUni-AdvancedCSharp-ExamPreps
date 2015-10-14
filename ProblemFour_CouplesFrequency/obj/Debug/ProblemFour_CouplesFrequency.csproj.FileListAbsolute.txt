@@ -1,0 +1,6 @@
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\ExamPrep\ConsoleApplication1\ProblemFour_CouplesFrequency\bin\Debug\ProblemFour_CouplesFrequency.exe.config
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\ExamPrep\ConsoleApplication1\ProblemFour_CouplesFrequency\bin\Debug\ProblemFour_CouplesFrequency.exe
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\ExamPrep\ConsoleApplication1\ProblemFour_CouplesFrequency\bin\Debug\ProblemFour_CouplesFrequency.pdb
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\ExamPrep\ConsoleApplication1\ProblemFour_CouplesFrequency\obj\Debug\ProblemFour_CouplesFrequency.csprojResolveAssemblyReference.cache
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\ExamPrep\ConsoleApplication1\ProblemFour_CouplesFrequency\obj\Debug\ProblemFour_CouplesFrequency.exe
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\ExamPrep\ConsoleApplication1\ProblemFour_CouplesFrequency\obj\Debug\ProblemFour_CouplesFrequency.pdb

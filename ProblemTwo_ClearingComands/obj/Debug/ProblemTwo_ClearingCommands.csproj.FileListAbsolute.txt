@@ -1,0 +1,6 @@
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\ExamPrep\ConsoleApplication1\ProblemTwo_ClearingComands\bin\Debug\ProblemTwo_ClearingComands.exe.config
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\ExamPrep\ConsoleApplication1\ProblemTwo_ClearingComands\bin\Debug\ProblemTwo_ClearingComands.exe
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\ExamPrep\ConsoleApplication1\ProblemTwo_ClearingComands\bin\Debug\ProblemTwo_ClearingComands.pdb
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\ExamPrep\ConsoleApplication1\ProblemTwo_ClearingComands\obj\Debug\ProblemTwo_ClearingCommands.csprojResolveAssemblyReference.cache
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\ExamPrep\ConsoleApplication1\ProblemTwo_ClearingComands\obj\Debug\ProblemTwo_ClearingComands.exe
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\ExamPrep\ConsoleApplication1\ProblemTwo_ClearingComands\obj\Debug\ProblemTwo_ClearingComands.pdb
